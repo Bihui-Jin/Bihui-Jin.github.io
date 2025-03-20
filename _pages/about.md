@@ -6,7 +6,7 @@ subtitle: Cheriton School of Computer Science | <a href='https://uwaterloo.ca/'>
 
 profile:
   align: right
-  image: my_pic.jpg
+  image: my_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>bihui[dot]jin@uwaterloo.ca</p>
