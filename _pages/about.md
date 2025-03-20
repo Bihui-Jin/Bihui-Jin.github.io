@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://uwaterloo.ca/'>University of Waterloo</a>
-Cheriton School of Computer Science
+subtitle: <a href='https://uwaterloo.ca/'>University of Waterloo</a> | Cheriton School of Computer Science
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  enabled: true
   more_info: >
     <p>Waterloo, Canada</p>
 
