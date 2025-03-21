@@ -26,4 +26,4 @@ latest_posts:
 ---
 Hello, I am Bihui Jin, welcome to my site! I am a first-year Ph.D. Student in Computer Science at University of Waterloo, advised by Prof. [Pengyu Nie](https://pengyunie.github.io/). I obtained my MASc. in 2023 and BASc. in 2022 in Computer Engineering from [Queen&#39;s University](https://www.queensu.ca/), advised by Prof. [Ying (Jenny) Zou](https://smithengineering.queensu.ca/directory/faculty/ying-zou.html).
 
-My research interests span developing new techniques for training, testing, and evaluating ML systems, software enginnering, and emprical studies.
+My research interests span developing new techniques for training, testing, and evaluating ML systems, software enginnering, and empirical studies.
