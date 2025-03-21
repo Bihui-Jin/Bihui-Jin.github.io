@@ -387,16 +387,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-2",
-          title: 'Announcement_2',
+            },},{id: "news-my-paper-coupjava-a-dataset-of-code-upgrade-histories-in-open-source-java-repositories-worked-with-kaihang-jiang-and-prof-pengyu-nie-has-been-accepted-for-publication-in-the-proceedings-of-the-2025-ieee-acm-22nd-international-conference-on-mining-software-repositories-msr-to-be-held-28-29-april-2025-in-ottawa-canada",
+          title: 'My paper “CoUpJava: A Dataset of Code Upgrade Histories in Open-Source Java Repositories”...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-my-paper-impact-of-extensions-on-browser-performance-an-empirical-study-on-google-chrome-worked-with-prof-amp-lt-a-href-39-https-smithengineering-queensu-ca-directory-faculty-ying-zou-html-39-amp-gt-ying-jenny-zou-amp-lt-a-amp-gt-and-prof-amp-lt-a-href-39-https-www-hengli-org-39-amp-gt-heng-li-amp-lt-a-amp-gt-has-been-accepted-for-publication-in-empirical-software-engineering-emse",
+          section: "News",},{id: "news-my-paper-impact-of-extensions-on-browser-performance-an-empirical-study-on-google-chrome-worked-with-prof-ying-jenny-zou-and-prof-heng-li-has-been-accepted-for-publication-in-empirical-software-engineering-emse",
           title: 'My paper “Impact of Extensions on Browser Performance: An Empirical Study on Google...',
           description: "",
-          section: "News",},{id: "news-learning-to-edit-interactive-machine-learning-notebooks-has-been-accepted-for-presentation-at-the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025-to-be-held-23-27-june-2025-in-trondheim-norway",
-          title: '“Learning to Edit Interactive Machine Learning Notebooks”, has been accepted for presentation at...',
+          section: "News",},{id: "news-my-paper-learning-to-edit-interactive-machine-learning-notebooks-has-been-accepted-for-presentation-at-the-acm-international-conference-on-the-foundations-of-software-engineering-fse-2025-to-be-held-23-27-june-2025-in-trondheim-norway",
+          title: 'My paper “Learning to Edit Interactive Machine Learning Notebooks”, has been accepted for...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -456,13 +454,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/Bihui-Jin", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-linkedin',
