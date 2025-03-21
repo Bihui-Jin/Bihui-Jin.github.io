@@ -24,6 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello, I am Bihui Jin, welcome to my site! I am a first-year Ph.D. Student in Computer Science at University of Waterloo, advised by Prof. [Pengyu Nie](https://pengyunie.github.io/). I obtained my MASc. and BASc. in Computer Engineering from [Queen&#39;s University](https://www.queensu.ca/), advised by Prof. [Ying (Jenny) Zou](https://smithengineering.queensu.ca/directory/faculty/ying-zou.html).
+Hello, I am Bihui Jin, welcome to my site! I am a first-year Ph.D. Student in Computer Science at University of Waterloo, advised by Prof. [Pengyu Nie](https://pengyunie.github.io/). I obtained my MASc. in 2023 and BASc. in 2022 in Computer Engineering from [Queen&#39;s University](https://www.queensu.ca/), advised by Prof. [Ying (Jenny) Zou](https://smithengineering.queensu.ca/directory/faculty/ying-zou.html).
 
 My research interests span developing new techniques for training, testing, and evaluating ML systems, software enginnering, and emprical studies.
